@@ -17,7 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/mariem-bchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariem bchir" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mariem-bchir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariem bchir" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mabchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mabchir" height="30" width="40" /></a>
 <a href="https://fb.com/mariem maryouma bchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariem maryouma bchir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mabchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mabchir" height="30" width="40" /></a>
