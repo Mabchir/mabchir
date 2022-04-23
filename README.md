@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabchir" alt="mabchir" /></a> </p>
 
-- 🔭 I’m currently working on [My professional portfolio](https://goofy-easley-2c8717.netlify.app/)
+- 🔭 I’m currently working on my professional portfolio
 
 - 🌱 I’m currently learning **React, D3.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mabchir](https://github.com/Mabchir)
+- 👨‍💻 Check out my frontend mentor projects at [My solutions](https://www.frontendmentor.io/profile/Mabchir/solutions)
 
-- 💬 Ask me about **css, js, html**
+- 💬 Ask me about **css, js, html, python**
 
 - 📫 How to reach me **mariem.m.bchir@gmail.com**
 
@@ -19,7 +19,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mariem-bchir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariem bchir" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mabchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mabchir" height="30" width="40" /></a>
-<a href="https://fb.com/mariem maryouma bchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariem maryouma bchir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mabchir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mabchir" height="30" width="40" /></a>
 </p>
 
