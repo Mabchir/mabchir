@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabchir" alt="mabchir" /></a> </p>
 
-- 🔭 I’m currently working on my professional portfolio
+- 🔭 I’m currently working at Saga Education as a Software Engineer 
 
-- 🌱 I’m currently learning **React, D3.js**
+- 🌱 I’m currently learning working with Haxe, Typescript, Ruby, and CSS 
 
 - 👨‍💻 Check out my frontend mentor projects at [My solutions](https://www.frontendmentor.io/profile/Mabchir/solutions)
 
